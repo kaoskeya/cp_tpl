@@ -1,0 +1,9 @@
+#map {
+	margin-top: -15px;
+	background: #70A4D3;
+	height: -moz-calc(100% - 45px );
+    height: -webkit-calc(100% - 45px );
+    height: calc(100% - 45px );
+    height: 100%;
+    display:block
+}
